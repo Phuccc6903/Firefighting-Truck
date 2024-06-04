@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense
 
-DATA_PATH = 'D:\\Learning\\HeThongNhung\\NUMBER_GESTURE\\Project_Data'
+DATA_PATH = '\\Project_Data'
 ACTIONS = ['forward', 'left', 'right', 'backward']
 video_num = 120
 frame_per_vid = 5

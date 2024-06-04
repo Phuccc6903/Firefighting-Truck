@@ -5,7 +5,7 @@ import mediapipe as mp
 import time
 import os 
 
-DATA_PATH = 'D:\\Learning\\HeThongNhung\\NUMBER_GESTURE\\Project_Data'
+DATA_PATH = '\\Project_Data'
 ACTIONS = ['forward', 'left', 'right','backward']
 video_num = 120
 frame_per_vid = 5
