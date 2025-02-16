@@ -42,6 +42,6 @@ You can see details of dataset in our notebook.
 
 
 ## Demo
-<video controls src="/Demo_Video/Demo_Fire_Detection.mp4" title="Title"></video>
+[![Watch the video](https://img.youtube.com/vi/VYjh2gSFyoI/0.jpg)](https://www.youtube.com/watch?v=VYjh2gSFyoI)
 ## Results
 Firefighting truck that autonomously detects fire, navigates to the fire, and extinguishes it, while also allowing for manual control by hand tracking. 
