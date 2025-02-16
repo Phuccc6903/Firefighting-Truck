@@ -44,6 +44,6 @@ You can see details of dataset in our notebook.
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/VYjh2gSFyoI/0.jpg)](https://www.youtube.com/watch?v=VYjh2gSFyoI)
 
-[![Watch the video](https://img.youtube.com/vi/0EckejwfKO8/0.jpg)](https://www.youtube.com/watch?v=0EckejwfKO8)
+[![Watch the video](https://img.youtube.com/vi/30Bi-uD-vxc/0.jpg)](https://www.youtube.com/watch?v=30Bi-uD-vxc)
 ## Results
 Firefighting truck that autonomously detects fire, navigates to the fire, and extinguishes it, while also allowing for manual control by hand tracking. 
